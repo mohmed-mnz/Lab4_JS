@@ -1,0 +1,27 @@
+#Tag{
+    margin-left: 20px;
+    border-style: solid;
+}
+#class{
+    margin-left: 9px;
+    border-style: solid;
+}
+#id{
+    margin-left: 68px;
+    border-style: solid;
+}
+#name{
+    margin-left: 47px;
+    border-style: solid;
+}
+#btn{
+    margin-left: 90px;
+    border-style: solid;
+}
+#result{
+    margin-left: 40px;
+    border-style: solid;
+    width: 300px;
+    height: 20px;
+    color: red;
+}
